@@ -1,0 +1,20 @@
+{
+  "name": "Simple Todo App",
+  "overview": "A minimal todo list application to demonstrate Clonk's capabilities.",
+  "features": [
+    "Add new todos",
+    "Mark todos as complete",
+    "Delete todos",
+    "Filter by status (all/active/completed)",
+    "Persist data in localStorage"
+  ],
+  "tech_stack": {
+    "frontend": "React + Vite + Tailwind CSS",
+    "backend": "None (client-side only)",
+    "state": "React useState + localStorage"
+  },
+  "pages": [],
+  "database": [],
+  "api": [],
+  "raw": "# Simple Todo App\n\n## Overview\nA minimal todo list application to demonstrate Clonk's capabilities.\n\n## Features\n- Add new todos\n- Mark todos as complete\n- Delete todos\n- Filter by status (all/active/completed)\n- Persist data in localStorage\n\n## Tech Stack\n- Frontend: React + Vite + Tailwind CSS\n- Backend: None (client-side only)\n- State: React useState + localStorage\n\n## Pages\n- / - Main todo app\n\n## Database\n- localStorage only (no backend database)\n"
+}
