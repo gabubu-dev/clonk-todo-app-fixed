@@ -1,6 +1,8 @@
 {
-  "iteration": 0,
-  "completed_tasks": [],
+  "iteration": 1,
+  "completed_tasks": [
+    "Initialize React Project"
+  ],
   "current_task": null,
   "plan": {
     "tasks": [
