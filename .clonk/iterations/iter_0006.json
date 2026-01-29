@@ -1,0 +1,16 @@
+{
+  "task": {
+    "name": "Build TodoForm Component",
+    "type": "frontend",
+    "description": "Create TodoForm component for adding new todos",
+    "files": [
+      "src/components/TodoForm.jsx"
+    ],
+    "dependencies": [
+      "Build TodoList Component"
+    ]
+  },
+  "changes": 1,
+  "commit": "Clonk iteration 6: Build TodoForm Component",
+  "timestamp": "2026-01-28T21:17:48.517880"
+}
