@@ -1,0 +1,16 @@
+{
+  "task": {
+    "name": "Build TodoList Component",
+    "type": "frontend",
+    "description": "Create TodoList component to display all todos with filtering",
+    "files": [
+      "src/components/TodoList.jsx"
+    ],
+    "dependencies": [
+      "Create Main App Structure"
+    ]
+  },
+  "changes": 1,
+  "commit": "Clonk iteration 4: Build TodoList Component",
+  "timestamp": "2026-01-28T21:17:42.091458"
+}
