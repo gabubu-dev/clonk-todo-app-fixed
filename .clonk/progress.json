@@ -1,10 +1,11 @@
 {
-  "iteration": 4,
+  "iteration": 5,
   "completed_tasks": [
     "Initialize React Project",
     "Setup Tailwind Configuration",
     "Create Main App Structure",
-    "Build TodoList Component"
+    "Build TodoList Component",
+    "Build TodoItem Component"
   ],
   "current_task": null,
   "plan": {

@@ -1,0 +1,16 @@
+{
+  "task": {
+    "name": "Build TodoItem Component",
+    "type": "frontend",
+    "description": "Create TodoItem component for individual todo display with complete/delete",
+    "files": [
+      "src/components/TodoItem.jsx"
+    ],
+    "dependencies": [
+      "Build TodoList Component"
+    ]
+  },
+  "changes": 1,
+  "commit": "Clonk iteration 5: Build TodoItem Component",
+  "timestamp": "2026-01-28T21:17:44.905740"
+}
